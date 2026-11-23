@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "CineScope",
+    "slug": "cinescope",
+    "scheme": "cinescope",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0D0F14",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "br.pucminas.cinescope"
+    },
+    "android": {
+      "package": "br.pucminas.cinescope",
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0F14",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0D0F14",
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 140
+        }
+      ]
+    ]
+  }
+}

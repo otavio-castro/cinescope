@@ -15,6 +15,16 @@ Trabalho prático de Desenvolvimento de Aplicações Móveis, Sistemas de Inform
 - Otávio Nascimento de Castro
 - Sarah Palhares Araújo
 
+## Telas
+
+| Entrada | Início | Buscar |
+|:---:|:---:|:---:|
+| <img src="docs/prints/entrada.jpg" width="220" alt="Tela de entrada"> | <img src="docs/prints/inicio.jpg" width="220" alt="Tela Início"> | <img src="docs/prints/buscar.jpg" width="220" alt="Tela Buscar"> |
+
+| Detalhe | Minha Lista | Perfil |
+|:---:|:---:|:---:|
+| <img src="docs/prints/detalhe.jpg" width="220" alt="Tela de detalhe"> | <img src="docs/prints/minha-lista.jpg" width="220" alt="Tela Minha Lista"> | <img src="docs/prints/perfil.jpg" width="220" alt="Tela Perfil"> |
+
 ## Como executar
 
 Pré-requisitos: Node.js 22 ou superior e o **Expo Go com suporte ao SDK 58** no celular, conectado à mesma rede Wi-Fi do computador.
